@@ -1,0 +1,13 @@
+Room Acoustic Report — Hall room
+==================================================
+RT60 (T30): 0.136 s
+RT60 (T20): 0.158 s
+EDT:        0.046 s
+Clarity C50: 55.62 dB
+Clarity C80: 55.62 dB
+Direct-to-Reverberant Ratio: 3.89 dB
+Spectral Centroid: 4102.8 Hz
+Spectral Flatness: 0.036
+Reflections detected: 1
+Reflection density: 10.0 /s
+First reflection delay: n/a

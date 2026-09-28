@@ -1,0 +1,13 @@
+Room Acoustic Report — Small Dry Room
+==================================================
+RT60 (T30): 0.097 s
+RT60 (T20): 0.105 s
+EDT:        0.231 s
+Clarity C50: 44.46 dB
+Clarity C80: 44.46 dB
+Direct-to-Reverberant Ratio: -5.96 dB
+Spectral Centroid: 5497.2 Hz
+Spectral Flatness: 0.145
+Reflections detected: 7
+Reflection density: 70.0 /s
+First reflection delay: n/a

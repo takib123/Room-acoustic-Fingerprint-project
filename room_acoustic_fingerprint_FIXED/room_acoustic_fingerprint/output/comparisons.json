@@ -1,0 +1,47 @@
+{
+  "small_room_vs_hall": {
+    "room_1": "Small Dry Room",
+    "room_2": "Large Reverberant Hall",
+    "cosine_similarity": 0.31351055664689287,
+    "euclidean_distance": 347.99145142986197,
+    "normalized_euclidean_distance": 13.114877048604,
+    "overall_similarity_percent": 65.67552783234464,
+    "key_feature_differences": {
+      "rt60_t30_diff_s": -0.6689175329039748,
+      "rt60_edt_diff_s": -1.169623295729271,
+      "clarity_c50_diff_db": 47.45762912667107,
+      "spectral_centroid_diff_hz": 172.4370115006859,
+      "reflection_count_diff": -12
+    }
+  },
+  "small_room_vs_office": {
+    "room_1": "Small Dry Room",
+    "room_2": "Office (similar to small room)",
+    "cosine_similarity": 0.6055746375132169,
+    "euclidean_distance": 244.4266310051712,
+    "normalized_euclidean_distance": 11.832159566199232,
+    "overall_similarity_percent": 80.27873187566085,
+    "key_feature_differences": {
+      "rt60_t30_diff_s": -0.020745205270692138,
+      "rt60_edt_diff_s": 0.006934543862086029,
+      "clarity_c50_diff_db": 6.020700676476309,
+      "spectral_centroid_diff_hz": 360.21547541762175,
+      "reflection_count_diff": 6
+    }
+  },
+  "hall_vs_office": {
+    "room_1": "Large Reverberant Hall",
+    "room_2": "Office (similar to small room)",
+    "cosine_similarity": 0.10975124700559714,
+    "euclidean_distance": 441.6405631215641,
+    "normalized_euclidean_distance": 13.114877048604,
+    "overall_similarity_percent": 55.48756235027986,
+    "key_feature_differences": {
+      "rt60_t30_diff_s": 0.6481723276332827,
+      "rt60_edt_diff_s": 1.1765578395913567,
+      "clarity_c50_diff_db": -41.43692845019476,
+      "spectral_centroid_diff_hz": 187.77846391693583,
+      "reflection_count_diff": 18
+    }
+  }
+}

@@ -1,0 +1,13 @@
+Room Acoustic Report — Office (similar to small room)
+==================================================
+RT60 (T30): 0.118 s
+RT60 (T20): 0.125 s
+EDT:        0.224 s
+Clarity C50: 38.44 dB
+Clarity C80: 38.44 dB
+Direct-to-Reverberant Ratio: -4.88 dB
+Spectral Centroid: 5136.9 Hz
+Spectral Flatness: 0.170
+Reflections detected: 1
+Reflection density: 10.0 /s
+First reflection delay: n/a

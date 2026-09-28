@@ -1,0 +1,13 @@
+Room Acoustic Report — samis room
+==================================================
+RT60 (T30): 0.225 s
+RT60 (T20): 0.306 s
+EDT:        2.693 s
+Clarity C50: -4.41 dB
+Clarity C80: -2.49 dB
+Direct-to-Reverberant Ratio: -16.71 dB
+Spectral Centroid: 2084.7 Hz
+Spectral Flatness: 0.094
+Reflections detected: 19
+Reflection density: 100.0 /s
+First reflection delay: 1.79 ms

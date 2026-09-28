@@ -1,0 +1,13 @@
+Room Acoustic Report — r1
+==================================================
+RT60 (T30): 0.536 s
+RT60 (T20): 0.597 s
+EDT:        1.659 s
+Clarity C50: -5.19 dB
+Clarity C80: -3.31 dB
+Direct-to-Reverberant Ratio: -16.16 dB
+Spectral Centroid: 1279.8 Hz
+Spectral Flatness: 0.009
+Reflections detected: 19
+Reflection density: 110.0 /s
+First reflection delay: n/a
